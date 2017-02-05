@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN ClubName
+title: About MozillaTN SNSCT
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
