@@ -1,0 +1,103 @@
+---
+layout: default
+cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
+---
+
+
+
+<div class="home">
+    
+    {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
+
+
+	{% assign publishedEvent = site.posts | where: 'categories', 'event' %}
+	{% assign publishedBlog = site.posts | where: 'categories', 'blog' %}
+
+
+<div class="clearfix">
+
+      <h1 class="event-time-heading fix-top">Recent Post</h1>
+
+      {% for post in publishedBlog reversed limit:3 %}
+
+        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+
+
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.cover %}
+            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
+            {% endif %}
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+               <div class='event-square-overlay'></div>
+            </div>
+
+          </a>
+
+      {% endfor %}
+    </div>
+
+
+
+    <div class="clearfix">
+
+      <h1 class="event-time-heading fix-top">Future {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
+
+	{% assign futureEvent = 0 %}
+
+      {% for post in publishedEvent reversed limit:3 %}
+
+        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+
+        {% if blogDate >= currentDate  %}
+
+	      {% assign futureEvent = 0 | plus: 1 %}
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.cover %}
+            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
+            {% endif %}
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+               <div class='event-square-overlay'></div>
+            </div>
+           
+          </a>
+
+        {% endif %}
+
+      {% endfor %}
+
+	{% if futureEvent == 0   %}
+		<h2> Stay tuned for More events</h2>
+	{% endif %}
+    </div>
+    <div class="clearfix">
+
+      <h1 class="event-time-heading">Past {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
+    
+
+  {% for post in publishedEvent limit:3%}
+
+        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+
+
+	
+
+        {% if blogDate < currentDate %}
+
+
+  <a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.cover %}
+            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
+            {% endif %}
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+              <div class='event-square-overlay'></div>
+            </div>
+            
+          </a>
+
+	
+	{% endif %}
+
+      {% endfor %}
+    </div>
+
+</div>
