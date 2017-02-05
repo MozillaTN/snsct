@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MozillaTN Club Name</title>
+    <description>MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Feb 2017 19:28:45 +0530</pubDate>
+    <lastBuildDate>Fri, 03 Feb 2017 19:28:45 +0530</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Docker</title>
+        <description>&lt;p&gt;Its everywhere. Docker, Docker, Docker! If your an expert or new to Docker come to my 3 hour training session.&lt;/p&gt;
+
+&lt;p&gt;I will also provide cake!&lt;/p&gt;
+
+&lt;p&gt;Just click the button and let me know you want to attend.&lt;/p&gt;
+
+&lt;p&gt;I promise…it will be fun!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 May 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/docker</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/docker</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Web Security</title>
+        <description>&lt;p&gt;Its very important that we keep up to date with web security. This talk will be a 7 hour introduction into the latest techniques about web security
+and how we can keep our data safe across Mobiles, Desktops and Tablets.&lt;/p&gt;
+
+&lt;p&gt;Let me know if you would like to attend.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Apr 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/event/web-security</link>
+        <guid isPermaLink="true">http://localhost:4000/event/web-security</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>ReactJS</title>
+        <description>&lt;p&gt;I will be doing a small talk on an Introduction into ReactJS. We will cover the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is React?&lt;/li&gt;
+  &lt;li&gt;How to get setup with React.&lt;/li&gt;
+  &lt;li&gt;How to get building React Apps.&lt;/li&gt;
+  &lt;li&gt;Bundle your application&lt;/li&gt;
+  &lt;li&gt;Release your application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If this sounds interesting please register your interest below.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/event/intro-to-react</link>
+        <guid isPermaLink="true">http://localhost:4000/event/intro-to-react</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>Angular 2</title>
+        <description>&lt;p&gt;Angular computes updates based on changes to data, not DOM, for fast updates that scale to the largest data sets with minimal memory overhead.&lt;/p&gt;
+
+&lt;p&gt;With Angular Universal for server-side rendering and Web Workers for smooth scrolling and transitions, Angular 2 solves the core challenges in mobile web performance.&lt;/p&gt;
+
+&lt;p&gt;Supports several languages including plain JavaScript, TypeScript, and Dart. Also supports both object-style data structure with POJO data-binding and functional reactive style with unidirectional data flow and support for observables and immutable data structures.&lt;/p&gt;
+
+&lt;p&gt;Angular is built by a team of engineers who share a passion for making web development feel effortless. We believe that writing beautiful apps should be joyful and fun. We’re building a platform for the future….&lt;/p&gt;
+
+&lt;p&gt;If you want to know more come along to my event!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/event/angular-2</link>
+        <guid isPermaLink="true">http://localhost:4000/event/angular-2</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>Getting started with AWS</title>
+        <description>&lt;p&gt;Just a quick introduction into AWS.&lt;/p&gt;
+
+&lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/event/aws</link>
+        <guid isPermaLink="true">http://localhost:4000/event/aws</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+  </channel>
+</rss>

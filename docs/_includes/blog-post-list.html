@@ -1,0 +1,20 @@
+<ul id="tag-post-list">
+    {% for post in site.posts %}
+       
+	  {% if post.categories contains 'blog' %}
+		
+
+	
+		<div class="tagposts">
+		        <a href="{{site.baseurl }}{{ post.url  }}" class="container">{{ post.title }} 
+        		</a>
+        	</div>
+
+	
+	  {% endif %}	
+    {% endfor %}
+</ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
