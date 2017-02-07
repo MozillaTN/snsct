@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MozillaTN ClubName blog
+title: MozillaTN SNSCT blog
 navigation_title: Blog
 permalink: /blog/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
