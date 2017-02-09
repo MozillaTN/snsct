@@ -10,8 +10,6 @@ SNSCT Mozilla Campus Club is a Club functioning under Mozilla Tamilnadu.
 
 We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
 
-We believe the amplification of community voices and building relationships can lead to that impact of spreading ideas beyond just one community, to greater sets of audience.
-
 Legend has it that folks here bleed code and pixels. (you can’t blame us if you encounter ambidextrous and sapiosexual people)
 
 We are a bunch of high spirited folks. We are a team.
