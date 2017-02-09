@@ -1,3 +1,18 @@
+---
+layout: post
+
+#event information
+title:  "Club Inaguration"
+cover: "../assets/club old logo.png"
+date:   2016-04-26
+
+#event organiser details
+organiser: "Paarttipaabhalaji"
+
+categories: "blog"
+
+---
+
 The SNSCT Firefox Club was inagurated on 26th april 2016. After the great efforts taken by Mr.Paarttipaabhalaji and his club fellows the club was inaugurated.
 
 ({{ site.url }}/assets/club inaguration.png)
