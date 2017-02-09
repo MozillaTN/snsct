@@ -15,7 +15,7 @@ categories: "blog"
 
 The SNSCT Firefox Club was inagurated on 26th april 2016. After the great efforts taken by Mr.Paarttipaabhalaji and his club fellows the club was inaugurated.
 
-({{ site.url }}/assets/club-inaguration.png)
+![https://1.bp.blogspot.com/-ap27pWf2Ubg/VxuNcDjrDSI/AAAAAAAAAL4/UcXZUrNR-UoOikRKy4gvCqlUBTJnZSTHgCLcB/s640/IMG_9745.JPG](Club inaguration)
 
 The event kick-started with inaugural ceremony and release of the club logo. The Head of the department Mrs.L.M.Nithya mam was very supportive for them and she always gave her hands for innovation and creative minds. After the ceremony, Mr.Vigneshwer started with the general session about the Mozilla club and the importance of club activities. And he briefly explained about the student opportunities in Mozilla and the projects ideas related to connected device.
 
