@@ -7,7 +7,7 @@ cover: "../assets/club-old-logo.png"
 date:   2016-04-26
 
 #event organiser details
-organiser: "Paarttipaabhalaji"
+organiser: "Surentharan"
 
 categories: "blog"
 
