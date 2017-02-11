@@ -33,7 +33,7 @@ Here are the list of amazing Mozilla contributors from our club.
 
 <img src="{{ contributor.photo }}"></div><br>
 
-<p class="name">**Name:** {{ contributor.name }}</p>
+<p class="name" style="font-style:bold;">Name: {{ contributor.name }}</p>
 <p class="contribution">**Contribution Area:**{{ contributor.contribution }}</p>
 
 </div>
