@@ -5,8 +5,8 @@ layout: post
 title:  "Firefox 52 beta 7 Test day invitation"
 cover: "../assets/club-old-logo.png"
 date:   2017-02-17
-From: 6AM
-To: 12AM
+start_time:"06:00"
+end_time:"24:00"
 
 #event organiser details
 organiser: "Surentharan"
