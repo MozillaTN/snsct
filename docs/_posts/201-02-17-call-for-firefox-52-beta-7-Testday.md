@@ -2,9 +2,11 @@
 layout: post
 
 #event information
-title:  "call for Firefox 52 beta 7 Testing day"
+title:  "Firefox 52 beta 7 Test day invitation"
 cover: "../assets/club-old-logo.png"
-date:   2017-02-16
+date:   2017-02-17
+From: 6AM
+To: 12AM
 
 #event organiser details
 organiser: "Surentharan"
