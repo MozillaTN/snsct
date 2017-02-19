@@ -3,19 +3,12 @@ layout: post
 
 #event information
 title:  "Firefox 52 beta 7 Testday Result"
-cover: "../assets/club-old-logo.png"
-date:   2017-02-19
-
+cover: "../assets/qmo.jpeg"
 #event organiser details
 organiser: "Nagarajnaidu"
 
 categories: "blog"
-
 ---
-
-
-![Firefox 52 Beta7 Testday]({{ site.url }}/assets/qmo.jpeg)
-
 
 **Hello All!**
 
