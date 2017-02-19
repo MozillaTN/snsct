@@ -13,7 +13,7 @@ categories: "blog"
 **Hello All!**
 
 <p>The  Firefox 52 Beta7 Testday tookplace on Feburary 17th 2017. The main focus during the testing was around Graphics, Bug Verification and Bug Triage.</p>
-<p>With these 10 awesome contributors, the testday was successfully done.</p>
+<p>With these 12 awesome contributors, the testday was successfully done.</p>
 
 
 - [Nagaraj V](https://twitter.com/nagarajnaidu921)
