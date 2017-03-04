@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Bug verification day invitation"
+title:  "Bug verification day-20170301 invitation"
 cover: "../assets/club-old-logo.png"
 date:   2017-03-01
 start_time: "06:00"
