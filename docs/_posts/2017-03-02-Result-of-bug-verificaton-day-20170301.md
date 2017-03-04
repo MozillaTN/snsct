@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "result of bug verification day-20170301"
+title:  "Result of Bug Verification Day-20170301"
 cover: "../assets/qmo.jpeg"
 #event organiser details
 organiser: "surentharan"
@@ -13,7 +13,7 @@ categories: "blog"
 **Hello All!**
 
 <p>The  bug verification day tookplace on March 1st 2017.</p>
-<p>With these 12 awesome contributors, the Bug verification day was successfully done.</p>
+<p>With these 5 awesome contributors, the Bug verification day was successfully done.</p>
 
 
 - [Surentharan R A](https://twitter.com/surentharan7)
