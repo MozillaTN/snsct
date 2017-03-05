@@ -24,7 +24,7 @@ categories: "blog"
 - [vinothini K](https://twitter.com/vinosri99)
 - [Dhinesh Kumar M](https://twitter.com/Dhinesh_Kumar_M)
 - [Sankararaman K](https://twitter.com/iamsanga7)
-- [Rajesh D](https://twitter.com/rajeshhacker23)
+- [Rajesh D](https://twitter.com/rajeshhacker023)
 - [Kavya K](https://twitter.com/KavyaKmk97)
 - [Krithika sowbarnika R](https://twitter.com/ragava25)
 - [Subash M](https://twitter.com/subahiphop4)
