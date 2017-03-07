@@ -30,6 +30,6 @@ The agenda for the Women's day celebration would be as follows.
 
 we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.
 
-The link for the hands-on session for testing is""
+The link for the hands-on session for testing is
 
 Participants Kindly RSVP by commenting your name along with your twitter handle, telegram handle and fb profile link.
