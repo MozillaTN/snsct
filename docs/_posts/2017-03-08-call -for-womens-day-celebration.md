@@ -17,19 +17,19 @@ categories: "event"
 
 **Hello Everyone**
 
-It's an immense pleasure in welcoming you all for the women's day celebration at SNS College of Technology.
+<p>It's an immense pleasure in welcoming you all for the women's day celebration at SNS College of Technology.</p>
 
-I feel very glad to reach out to the Women's and extempore the ideas and contributions of MOZILLA .
+<p>I feel very glad to reach out to the Women's and extempore the ideas and contributions of MOZILLA .</p>
 
-The agenda for the Women's day celebration would be as follows.
+<p>The agenda for the Women's day celebration would be as follows.</p>
 
-9.00 - 10.00: Presentation on Women in Technology
-10.00-11.00:  Introduction to various tracks
-11.00- 12.00: Hands on session on testing
-12.00-12.30: Hangout call
+<p>9.00 - 10.00: Presentation on Women in Technology</p>
+<p>10.00-11.00:  Introduction to various tracks</p>
+<p>11.00- 12.00: Hands on session on testing</p>
+<p>12.00-12.30: Hangout call</p>
 
-we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.
+<p>we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.</p>
 
 The link for the hands-on session for testing is
 
-Participants Kindly RSVP by commenting your name along with your twitter handle, telegram handle and fb profile link.
+<p>Participants Kindly RSVP by commenting your name along with your twitter handle, telegram handle and fb profile link.</p>
