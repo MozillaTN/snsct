@@ -2,16 +2,18 @@
 layout: post
 
 #event information
-title:  "Call for Women's day celebration".
-cover: "../assets/Womoz.jpeg"
+title:  "Womoz day celebration invitation"
+cover: "../assets/womoz.jpg"
 date:   2017-03-08
-start_time: "9:00"
+start_time: "09:00"
 end_time: "13:00"
 
 #event organiser details
 organiser: "Kavya"
 
 categories: "event"
+
+---
 
 **Hello Everyone**
 
