@@ -23,10 +23,10 @@ I feel very glad to reach out to the Women's and extempore the ideas and contrib
 
 The agenda for the Women's day celebration would be as follows.
 
-9.00 - 10.00: Presentation on Women in Technology.
-10.00-11.00:  Introduction to various tracks .
-11.00- 12.00: Hands on session on testing.
-12.00-12.30: Hangout call.
+9.00 - 10.00: Presentation on Women in Technology
+10.00-11.00:  Introduction to various tracks
+11.00- 12.00: Hands on session on testing
+12.00-12.30: Hangout call
 
 we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.
 
