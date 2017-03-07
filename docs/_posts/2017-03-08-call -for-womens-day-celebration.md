@@ -15,7 +15,7 @@ categories: "event"
 
 **Hello Everyone**
 
-It's an immense pleasure in welcoming you all for the women's day celebration at SNS College of Technology 2k17.
+It's an immense pleasure in welcoming you all for the women's day celebration at SNS College of Technology.
 
 I feel very glad to reach out to the Women's and extempore the ideas and contributions of MOZILLA .
 
@@ -28,11 +28,6 @@ The agenda for the Women's day celebration would be as follows.
 
 we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.
 
-The link for the hands-on session for testing is
+The link for the hands-on session for testing is""
 
-""
 Participants Kindly RSVP by commenting your name along with your twitter handle, telegram handle and fb profile link.
-
-
-
-
