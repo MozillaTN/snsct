@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Bug verification day-20170301 invitation"
-cover: "../assets/club-old-logo.png"
+cover: "../assets/qmo.jpeg"
 date:   2017-03-01
 start_time: "06:00"
 end_time: "24:00"
