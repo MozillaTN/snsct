@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Firefox 53.0 Aurora Testday invitation"
-cover: "../assets/club-old-logo.png"
+cover: "../assets/qmo.jpeg"
 date:   2017-03-03
 start_time: "06:00"
 end_time: "24:00"
