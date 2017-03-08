@@ -30,6 +30,8 @@ categories: "event"
 
 <p>we hope that this day would certainly lead womens to actively contribute to Mozilla and would benifit the best out of the day.</p>
 
-The link for the hands-on session for testing is [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Testing_Day_SNSCT_Womoz_Day_20170308)   [google docs](https://docs.google.com/document/d/1ujhLcWqgg3Jl_3FA8s4LS3UdY2hbuop202CUoghtp7U/edit?usp=sharing)
+<p>The link for the hands-on session for testing is </p>
+<p>[etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Testing_Day_SNSCT_Womoz_Day_20170308) </p>  
+<p>[google docs](https://docs.google.com/document/d/1ujhLcWqgg3Jl_3FA8s4LS3UdY2hbuop202CUoghtp7U/edit?usp=sharing) use this when the internet is slow </p>
 
 <p>Participants Kindly RSVP by commenting your name along with your twitter handle, telegram handle and fb profile link.</p>
