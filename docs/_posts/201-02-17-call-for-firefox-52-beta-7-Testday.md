@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Firefox 52 beta 7 Test day invitation"
-cover: "../assets/club-old-logo.png"
+cover: "../assets/qmo.jpeg"
 date:   2017-02-17
 start_time: "06:00"
 end_time: "24:00"
@@ -14,7 +14,6 @@ organiser: "Surentharan"
 categories: "event"
 
 ---
-![Firefox 52 beta 7 Test day]({{ site.url }}/assets/qmo.jpeg)
 
 **Hello Everyone!**
 
