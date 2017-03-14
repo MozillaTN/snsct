@@ -46,13 +46,11 @@ The following is the list of contributors who took part in the Women's day celeb
 
 Check this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Testing_Day_SNSCT_Womoz_Day_20170308) for testing results
 
-The count of girls who came forward were amazing, we strongly believe that they all will be a sustained contributors to open source.
+<p>The count of girls who came forward were amazing, we strongly believe that they all will be a sustained contributors to open source.</p>
 
-Thanks to every Women who were a part of us. Hoping to have many events like this focusing the women power.
+<p>Thanks to every Women who were a part of us. Hoping to have many events like this focusing the women power.</p>
 
-The words of our team.
-( add the words of ur Womoz lead and one women attende. Ask their feedback type it in double quotes as they said and then give their name at last 
-Eg:
-" a great day and I learnt a lot" - aishu ( Womoz lead of SNCT....)
-
-Similarly a girl participant. ))
+<p>The words of our team.</p>
+<p>" The day was outstanding and also keen in stimulating the interest of young minds in Mozilla" - Kavya ( Womoz lead of SNSCT)</p>
+<p>"we girls celebrated the elegance of womenhood along with the sessional demonstrations of widely discussed topics of open source community to the score inspired many girls to accomplish the growing technology ...!!" - Pavithra (Member of SNSCT Mozilla Campus Club)</p>
+<p>Similarly a girl participant. ))</p>
