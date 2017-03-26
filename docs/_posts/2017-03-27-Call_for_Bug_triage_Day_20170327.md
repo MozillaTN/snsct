@@ -18,7 +18,7 @@ categories: "event"
 
 **Hello Everyone!**
 
-on monday, 27th March 2017, We will have our weekly Bug Triage Day. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_27032017)
+on monday, 27th March 2017, We will have our weekly Bug Triage Day. Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170327)
 
 It will be a great learning and contributing experience for everyone. And hereby invite you to join us. Lets work together for a better Firefox!!!
 
