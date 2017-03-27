@@ -18,7 +18,7 @@ categories: "blog"
 - [Surentharan](https://twitter.com/surentharan7)
 - [Monesh](https://twitter.com/moneshb7)
 - [Subash](https://twitter.com/subahiphop4)
-- [Gunapathi](https://twitter.com/gunapathis)
+- [Gunapathi](https://twitter.com/GunapathiS)
 - [Karthik](https://twitter.com/karthikruju)
 
 <p>No: of bugs triaged : 5 </p>
