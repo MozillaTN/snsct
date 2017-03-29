@@ -30,8 +30,8 @@ categories: "event"
 <p>You have all chosen to be a part of MOZILLA  community because of our mutual passion and our passions help us all to come together as one and the energy we create as one allows us to achieve our individual as well as group goals.</p>
 
 <p>May we all take this opportunity to reaffirm and confirm how we are together and part of each other lives.</p>
-<p>Here is the link for the [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30) 
-[Google docs]()</p>
+Here is the link for the  [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30) 
+Here is the link for the [Google docs]()
 <p>Participants Kindly RSVP by commenting your name along with your Twitter handle, Telegram handler and FB Profile link.</p>
 
 <p>Love Mozilla</p>
