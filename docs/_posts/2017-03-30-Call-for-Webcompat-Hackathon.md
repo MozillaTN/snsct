@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Webcompat Hackathon invitation"
-cover: "../assets/qmo.jpeg"
+cover: "../assets/webcompat.png"
 date:   2017-03-30
 start_time: "06:00"
 end_time: "24:00"
@@ -14,8 +14,6 @@ organiser: "Pavithra"
 categories: "event"
 
 ---
-![Webcompat Hackathon]({{ site.url }}/assets/qmo.jpeg)
-
 
 **Hello Everyone!**
 
