@@ -36,7 +36,7 @@ The following is the list of contributors who took part in the Women's day celeb
 - [K.GOWTHAM (19.01.1999](https://twitter.com/)
 - [S.JAGADESH](https://twitter.com/)
 - [D.JEBA CHRISTINA](https://twitter.com/)
-- [S.KAVYA](https://twitter.com/)- 
+- [S.KAVYA](https://twitter.com/)
 - [B.KRISHNAVENI](https://twitter.com/)
 - [G.MONISH RAJA](https://twitter.com/)
 - [S.NARMADHA DEVI](https://twitter.com/)
@@ -53,7 +53,7 @@ The following is the list of contributors who took part in the Women's day celeb
 - [V.SARUN VIGASH RAJ](https://twitter.com/)
 - [M.SATCHIDANANDAM](https://twitter.com/)
 - [S.SELENA NAZLIN](https://twitter.com/)
-- [M.SIVABALA](https://twitter.com/)- 
+- [M.SIVABALA](https://twitter.com/)
 - [S.SOWMINI](https://twitter.com/)
 - [K.SOWMIYA](https://twitter.com/)
 - [R.SREEVARSHINI](https://twitter.com/)
