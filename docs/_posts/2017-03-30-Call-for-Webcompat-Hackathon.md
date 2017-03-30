@@ -23,11 +23,11 @@ Its a great pleasure in welcoming you all for the '' WEB COMPACT - HACKATHON...'
 
 Hope there are many ways to build your knowledge and skills in learning and experiencing... but its a powerful concept for understanding how people think and decide....
 
-The agenda for the Webcompat Hackathon would be as follows.
-09:00 - 09:30 : Intro to Mozilla and our club 
-09:30 - 10:30 : Intro to webcompat
-10:30 - 12:20 : Webcompat Hackathon
-01:10 - 04:00 : Various track intro along with onboarding session. 
+<p>The agenda for the Webcompat Hackathon would be as follows.</p>
+<p>09:00 - 09:30 : Intro to Mozilla and our club</p> 
+<p>09:30 - 10:30 : Intro to webcompat</p>
+<p>10:30 - 12:20 : Webcompat Hackathon</p>
+<p>01:10 - 04:00 : Various track intro along with onboarding session</p>
 
 You have all chosen to be a part of MOZILLA  community because of our mutual passion and our passions help us all to come together as one and the energy we create as one allows us to achieve our individual as well as group goals.
 
