@@ -71,6 +71,6 @@ Check this [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hack
 <p>Thanks to every ONE who were a part of us. Hoping to have many events like this focusing the </p>
 
 <p>The words of our team.</p>
-<p>" The day was outstanding and also keen in stimulating the interest of young minds in Mozilla" -  (  lead of SNSCT)</p>
-<p>"we girls celebrated the elegance of womenhood along with the sessional demonstrations of widely discussed topics of open source community to the score inspired many girls to accomplish the growing technology ...!!" - Pavithra (Member of SNSCT Mozilla Campus Club)</p>
-<p>Similarly a girl participant. ))</p>
+<p>" The day was outstanding with a group of 50 members and  there was a more elaborate description of web compatibility " -  (  lead of SNSCT)</p>
+<p>"we mozillians ,as a team spent a portion of our time designing ways in which to collaborate with our volunteers and ,more broadly,witH the WEB COMMUNITY .Worked together to ensure the OPEN PLATFORM WEB remains realizes its potential as an open platform..!!" - 
+
