@@ -33,8 +33,6 @@ categories: "event"
 
  Check out the detailed instructions via this [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30)
 
-Here is the link for the  [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30) 
-Here is the link for the [Google docs]()
 <p>Participants Kindly RSVP by commenting your name along with your Twitter handle, Telegram handler and FB Profile link.</p>
 
 <p>Love Mozilla</p>
