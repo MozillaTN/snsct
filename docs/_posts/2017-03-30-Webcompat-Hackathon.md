@@ -33,7 +33,7 @@ The following is the list of contributors who took part in the Women's day celeb
 - [D.FATHIMA](https://twitter.com/)
 - [P.GLADIA ANGELINE](https://twitter.com/)
 - [S.GOKUL KRISHNAN](https://twitter.com/)
-- [K.GOWTHAM (19.01.1999](https://twitter.com/)
+- [K.GOWTHAM](https://twitter.com/)
 - [S.JAGADESH](https://twitter.com/)
 - [D.JEBA CHRISTINA](https://twitter.com/)
 - [S.KAVYA](https://twitter.com/)
