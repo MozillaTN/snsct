@@ -33,7 +33,7 @@ You have all chosen to be a part of MOZILLA  community because of our mutual pas
 
 May we all take this opportunity to reaffirm and confirm how we are together and part of each other lives.
 
-Here is the etherpad link for Webcompat Hackathon[etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30)
+Here is the etherpad link for Webcompat Hackathon [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30)
  
  If your internet is slow then here is [Google_Docs](https://docs.google.com/document/d/1HYo7J4GnUjgFE-qs0A0IB1NQmuwMQ_Q5Y-Kk5_0F6fQ/edit?usp=sharing)
 
