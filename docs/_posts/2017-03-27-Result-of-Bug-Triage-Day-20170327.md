@@ -21,7 +21,9 @@ categories: "blog"
 - [Gunapathi](https://twitter.com/gunapathis)
 - [Karthik](https://twitter.com/karthikruju)
 
-<p>No: of bugs triaged : 5 </p>
+No: of bugs triaged : 5
+
 Thank you everyone for participating :)
-Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170327) . Let's continue to participate in future Bug triage days and help Firefox and it's users.
-<p>Happy Testing!</p>
+Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170327).Let's continue to participate in future Bug triage days and help Firefox and it's users.
+
+Happy Testing!
