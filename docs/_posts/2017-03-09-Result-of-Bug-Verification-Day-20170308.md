@@ -17,7 +17,7 @@ categories: "blog"
 
 - [Subash M](https://twitter.com/subahiphop4)
 - [Monesh B](https://twitter.com/moneshb7)
-- [Surentharan](https://twitter.com/surentharan7)
+- [Surentharan R A](https://twitter.com/surentharan7)
 - [Dhinesh Kumar](https://twitter.com/)
 
 Thank you everyone for participating :)
