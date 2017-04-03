@@ -14,7 +14,7 @@ categories: "blog"
 
 **Hello All!**
 
-<p>On 30th of March we celebrated WEB COMPAT-HACKATHON at SNS College of Technology on behalf of SNSCT Mozilla Campus Club. Our  session mainly focussed on all the open source topics, which kindered the inner spirit of each and every students.Lots of enthusiasm to learn something new and to grab opportunities in open web and open source were found in the students.The session explained the opportunities in the Open Source field. Mozilla was the key focus at the event. A group of 50 participants attend the session.</p>
+<p>On 30th of March we celebrated Webcompat Hackathon at SNS College of Technology on behalf of SNSCT Mozilla Campus Club. Participants came across a detailed view about how Webcompact works in the Compatability team to improve the web. This session made the new mozillian to feel easier to take part in the future Hackathon event in expendiency way. We are planning to conduct more such events based on different tracks. So that new mozillian could feel easier to take in the future events. A group of 50 participants attend the session.</p>
 
 ![Webcompat Hackathon]({{ site.url }}/assets/2017/w2.jpg)
 
@@ -25,7 +25,7 @@ The following is the list of Contributors who took part in the Webcompact Hackat
 - [A.SRI SUBITCHA](https://twitter.com/)
 - [S.SELENA NAZLIN](https://twitter.com/)
 - [S.SOWMINI](https://twitter.com/)
-- [.DIVYA](https://twitter.com/)
+- [DIVYA](https://twitter.com/)
 - [R.SREEVARSHINI](https://twitter.com/)
 - [B.KRISHNAVENI](https://twitter.com/)
 - [S.NARMADHA DEVI](https://twitter.com/)
@@ -65,13 +65,12 @@ The following is the list of Contributors who took part in the Webcompact Hackat
 
 Check this [etherpad](https://public.etherpad-mozilla.org/p/SNSCT_Webcompat_Hackathon_2017-03-30) for WEB COMPAT results
 
-<p>The count of STUDENTS who came forward were amazing, we strongly believe that they all will be a sustained contributors to open source.</p>
+<p>The count of STUDENTS who came forward were amazing, we strongly believe that they all will be a sustained contributors of MozillaTN.</p>
 
 ![Webcompat Hackathon]({{ site.url }}/assets/2017/w3.jpg)
 
-<p>Thanks to everyone who were a part of us. Hoping to have many events like this which focus on open source contributions </p>
+<p>Thanks to everyone who were a part of us. Hoping to have many events like this based on various tracks in future. </p>
 
 <p>The words of our team.</p>
 <p>" The day was outstanding with a group of 50 members and  there was a more elaborate description of web compatibility " - ( Surentharan - Club lead of SNSCT Mozilla Campus Club)</p>
-<p>"We Mozillians ,as a team spent our time brainstroming ideas to make the Web community much more easier for everyone to access.We did our part to ensure that the Internet is open and accessible to all. 
-
+<p>"We Mozillians ,as a team spent our time brainstroming ideas to make the Web community much more easier for everyone to access.We did our part to ensure that the Internet is open and accessible to all. - ( Nagaraj V - Webcompat track lead)
