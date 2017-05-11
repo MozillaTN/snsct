@@ -21,3 +21,5 @@ Bleed. Flow. And remember to code.
 *Let’s get rid of the asterixes.*
 
 Join us!!
+
+you can get directions [google maps](https://www.google.co.in/maps/place/SNS+College+of+Technology/@11.1000155,77.0243736,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba8f83363d71ce7:0xa7689eaf253ccf81!8m2!3d11.1000102!4d77.0265623) to reach our college
