@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Firefox 54 Beta 3 Testday Result"
+title:  "Firefox 55 Beta 4 Testday Result"
 cover: "../assets/qmo.jpeg"
 #event organiser details
 organiser: "Surentharan"
