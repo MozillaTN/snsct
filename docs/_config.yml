@@ -14,7 +14,7 @@ event_label: Events
 description: > # this means to ignore newlines until "baseurl:"
   MozillaTN SNSCT is club under MozillaTN community actively contributing to various contribution of mozilla.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/snsct" # the subpath of your site, e.g. /blog
 url: https://mozillatn.github.io/snsct
 
 domain_name: 'http://mozillatn.github.io'
