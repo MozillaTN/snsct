@@ -11,10 +11,26 @@ categories: "blog"
 ---
 
 
-<p>Mozilla global sprint event was organized by s.n.s college of technology, coimbatore held on 2 & 3 june 2017. The two days session focused on open web projects and internet health.This session was lead by our organizer Mr.Vignesher and co-organizer Mr.R.A.Surentharan.
-       First day in that event we are assemble at 10 a.m. and the organizer started to explained about mozilla global sprint event in video conference. Then we started to work with given list of projects with the help of our co-organizer. In that projects we are go through the project issues to understand about the project in detail.
-        Second day in that event we are clarify our doubts with video conference, gitter chat and with our organizer and co-organizer.
-         We are hope all the participants are loved and enjoyed this event. Thanks to everyone who are supporting to us for this event.
- The words of our participants about this event : 
-          The session was outstanding and also we are gain some knowledge about real time projects it was very helpful to us.
-           We are hope and exited to waiting for next mozilla event like this..<p>
+<p>Mozilla’s Global Sprint is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open. Mr.vigneshwar was the organizer of the mozsprint at SNSCT and Mr.Surentharan was the co-organizer.</p>
+
+<p>List of Participants:</p>
+- [Surentharan](https://twitter.com/surentharan7)
+- [Vaithegi](https://twitter.com/)
+- [Shiny](https://twitter.com/)
+- [Nivetha](https://twitter.com/)
+- [Roshan](https://twitter.com/)
+- [Satchidanandam](https://twitter.com/)
+- [Rajesh](https://twitter.com/)
+- [Vinothini](https://twitter.com/)	
+
+<p>First day in that event we all assembled at 10 a.m. and the organizer started to explain about mozilla global sprint event in video conference. Then we started to work with given list of projects with the help of our co-organizer. In those projects we went through the project issues to understand about the project in detail.</p>
+
+<p>Second day we clarified our doubts with video conference, gitter chat and with our organizer and co-organizer. We hope all the participants had a nice time and enjoyed this event. Thanks to everyone who were supporting to us for this event.</p>
+
+<p>We worked on 10 issues and a total of 4 pull request were given during this event.</p>
+
+<p>The words of our participants about this event:</p>
+<p>“The session was outstanding and also we gained some knowledge about real time projects. It was very helpful to us” – Satchidanandam</p>
+<p>"We are very excited to participate in many mozilla event like this..!” - Nivetha</p>
+
+<p>Happy Contributing to mozilla !!!</p>
