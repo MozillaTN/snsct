@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  ""
-cover: "../assets/qmo.jpeg"
+cover: "../assets/Add-ons.jpg"
 date:   2017-09-09 & 2017-09-10
 start_time: "06:00"
 end_time: "24:00"
