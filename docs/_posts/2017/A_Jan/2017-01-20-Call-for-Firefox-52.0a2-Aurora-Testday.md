@@ -1,10 +1,10 @@
- ---
+---
 layout: post
 
 #event information
 title:  "Firefox 52.0 Aurora Testday invitation"
 cover: "../assets/qmo.jpeg"
-date:   2017-01-20
+date:   2017-10-20
 start_time: "06:00"
 end_time: "24:00"
 
