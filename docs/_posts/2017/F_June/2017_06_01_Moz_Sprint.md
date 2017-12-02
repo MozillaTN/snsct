@@ -14,6 +14,7 @@ categories: "blog"
 <p>Mozilla’s Global Sprint is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open. Mr.vigneshwar was the organizer of the mozsprint at SNSCT and Mr.Surentharan was the co-organizer.</p>
 
 <p>List of Participants:</p>
+
 - [Surentharan](https://twitter.com/surentharan7)
 - [Vaithegi](https://twitter.com/)
 - [Shiny](https://twitter.com/)
