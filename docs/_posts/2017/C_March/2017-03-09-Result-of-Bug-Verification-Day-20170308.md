@@ -22,4 +22,4 @@ categories: "blog"
 
 Thank you everyone for participating :)
 Here is our results - [Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_verification_Day_20170308). Lets continue to participate in future Bug verification days and help Firefox and it's users.
-<p>Happy Testing!</p>
+<p>Happy Bug verifying!</p>
