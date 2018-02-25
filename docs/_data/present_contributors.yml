@@ -33,7 +33,7 @@
     description: Contributor
     photo: "https://s.gravatar.com/avatar/89327ed9cb3347e18c0bb1a93fe27f00?s=80"
     contribution: QA, WebVR
-    
+ 
 -   name: Kavya K - Womoz Lead
     twitter: KavyaKmk97
     description: Contributor
@@ -88,4 +88,9 @@
     photo: "https://s.gravatar.com/avatar/eb002722559b7af5b50f3fd000795d4d?s=80"
     contribution: QA, WebVR
     
+-   name: Satchidanandam.M
+    twitter: itguy041
+    description: Contributor
+    photo: "https://secure.gravatar.com/avatar/aa08724772ab44548c602e2208c1abe9?s=64"
+    contribution: QA, Rust
     
