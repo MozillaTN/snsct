@@ -28,3 +28,20 @@
     photo: "https://s.gravatar.com/avatar/ee3320587799c5756d5e19698dced304?s=80"
     contribution: QA
     
+-   name: Dhinesh Kumar M
+    twitter: Dhinesh_Kumar_M
+    description: Contributor
+    photo: "https://secure.gravatar.com/avatar/d9503e16454697cb3645519dafce9075"
+    contribution: QA, Add-on
+    
+-   name: Kavya K
+    twitter: KavyaKmk97
+    description: Contributor
+    photo: "https://s.gravatar.com/avatar/f051655c9eb979c821bb3636e7f27603?s=80"
+    contribution: QA, Add-on
+
+-   name: Vishnu Priya V
+    twitter: vkpriya15
+    description: Contributor
+    photo: "http://s.gravatar.com/avatar/80cf20b8702414b4c96a8bad01563c83?s=80"
+    contribution: QA, Localization
