@@ -10,12 +10,6 @@
     photo: "https://s.gravatar.com/avatar/ec27e7511d4c42e401787c483faeba7a"
     contribution: WebCompat & QA
 
--   name: Dhinesh Kumar M - Add-ons Track Lead
-    twitter: Dhinesh_Kumar_M
-    description: Contributor
-    photo: "https://secure.gravatar.com/avatar/d9503e16454697cb3645519dafce9075"
-    contribution: QA, Add-on
-
 -   name: Rajesh D - Rust Track Lead
     twitter: rajeshhacker023
     description: Contributor
@@ -34,12 +28,6 @@
     photo: "https://s.gravatar.com/avatar/89327ed9cb3347e18c0bb1a93fe27f00?s=80"
     contribution: QA, WebVR
  
--   name: Kavya K - Womoz Lead
-    twitter: KavyaKmk97
-    description: Contributor
-    photo: "https://s.gravatar.com/avatar/f051655c9eb979c821bb3636e7f27603?s=80"
-    contribution: QA, Add-on
-
 -   name: Krithika sowbarnika R
     twitter: ragava25
     description: Contributor
@@ -63,12 +51,6 @@
     description: Contributor
     photo: "https://s.gravatar.com/avatar/619d1875c7ba651a937c6c24b650d237?s=80"
     contribution: QA & Rust
-
--   name: Vishnu Priya V
-    twitter: vkpriya15
-    description: Contributor
-    photo: "http://s.gravatar.com/avatar/80cf20b8702414b4c96a8bad01563c83?s=80"
-    contribution: QA, Localization
         
 -   name: Ponmurugesh.M
     twitter: ponmurugesh007
