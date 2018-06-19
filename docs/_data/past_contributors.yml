@@ -39,3 +39,15 @@
     description: Contributor
     photo: "https://s.gravatar.com/avatar/f051655c9eb979c821bb3636e7f27603?s=80"
     contribution: QA, Add-on
+
+-   name: Nagaraj V - Webcompat Track Lead (2015-2018)
+    twitter: nagarajnaidu921
+    description: Contributor
+    photo: "https://s.gravatar.com/avatar/ec27e7511d4c42e401787c483faeba7a"
+    contribution: WebCompat & QA
+    
+-   name: Rajesh D - Rust Track Lead (2015-2018)
+    twitter: rajeshhacker023
+    description: Contributor
+    photo: "https://s.gravatar.com/avatar/af46be41736bd7a26decf52e2d518259?s=80"
+    contribution: QA, Rust
