@@ -3,19 +3,7 @@
     description: Contributor
     photo: "https://secure.gravatar.com/avatar/285ed40aea324821f3b0ebebf8075629"
     contribution: WebCompat & QA
-
--   name: Nagaraj V - Webcompat Track Lead
-    twitter: nagarajnaidu921
-    description: Contributor
-    photo: "https://s.gravatar.com/avatar/ec27e7511d4c42e401787c483faeba7a"
-    contribution: WebCompat & QA
-
--   name: Rajesh D - Rust Track Lead
-    twitter: rajeshhacker023
-    description: Contributor
-    photo: "https://s.gravatar.com/avatar/af46be41736bd7a26decf52e2d518259?s=80"
-    contribution: QA, Rust
-        
+     
 -   name: Vinothini K - Localization Track Lead
     twitter: vinosri99
     description: Contributor
