@@ -58,3 +58,8 @@
     photo: "https://secure.gravatar.com/avatar/30b55a2aaaaca33160852d98a2041710"
     contribution: QA, Localization 
    
+-   name: Selena Nazlin.S
+    twitter: selenanazlin
+    description: Contributor
+    photo: https://s.gravatar.com/avatar/3ebccc64ca1cd7287da71aa3ad6b1a1e?s=80
+    contribution: QA, Rust 
