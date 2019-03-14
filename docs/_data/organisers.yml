@@ -60,3 +60,10 @@ Subash:
     description: Contributor
     photo: "https://en.gravatar.com/userimage/117280209/90d0fb0a5a7f3c382d2d416e115bd4b3.png"
     contribution: QA, WebVR
+    
+Selena :
+    name: Selena Nazlin.S
+    twitter: selenanazlin
+    description: Contributor
+    photo: https://s.gravatar.com/avatar/3ebccc64ca1cd7287da71aa3ad6b1a1e?s=80
+    contribution: QA, Rust
