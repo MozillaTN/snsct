@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Mozilla Stall at SNSCT"
-cover: "../assets/2017/womoz.jpg"
+cover: "../assets/2019-MozStall_1.jpg"
 #event organiser details
 organiser: "Selena"
 
